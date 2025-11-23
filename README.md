@@ -1,6 +1,6 @@
 # Digital-Signal-Processing--Convolution
 ## Aim:
-                  To perform linear convolution using MAT LAB.
+To perform linear convolution using MAT LAB.
 ## Software Required:
 MAT LAB R2012
 ## Algorithm:
@@ -19,6 +19,9 @@ Step 6: Plot the sequence with x-label and y-label with suitable title
 Step 7: Terminate the program.
 
 ## PROGRAM: 
+```
+
+
 
 
 ## OUTPUT:
